@@ -1,0 +1,11 @@
+{
+    "gitlab_url": "",
+    "project_name": "{{ cookiecutter.gitlab_url | extractslug }}",
+    "author": "Jacques Supcik",
+    "email": "jacques.supcik@hefr.ch",
+    "project_brief": "Starter code for assignments in Computer Architecture",
+    "_extensions": [
+        "jinja2_time.TimeExtension",
+        "local_extensions.extractslug"
+    ]
+}
