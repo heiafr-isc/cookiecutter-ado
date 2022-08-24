@@ -17,7 +17,4 @@
 
 #include "f412disco_ado.h"
 
-
-int main(void) {
-
-}
+int main(void) { DiscoAdoInit(); }

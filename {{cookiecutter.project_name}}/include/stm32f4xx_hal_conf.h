@@ -22,9 +22,6 @@
 
 /* Define to prevent recursive inclusion -------------------------------------*/
 
-#ifndef _7B_7BCOOKIECUTTER_PROJECT_NAME_7D_7D_INCLUDE_STM32F4XX_HAL_CONF_H_
-#define _7B_7BCOOKIECUTTER_PROJECT_NAME_7D_7D_INCLUDE_STM32F4XX_HAL_CONF_H_
-
 #ifndef INCLUDE_STM32F4XX_HAL_CONF_H_
 #define INCLUDE_STM32F4XX_HAL_CONF_H_
 
@@ -551,6 +548,3 @@ void assert_failed(uint8_t* file, uint32_t line);
 #endif
 
 #endif /* INCLUDE_STM32F4XX_HAL_CONF_H_ */
-
-
-#endif /* _7B_7BCOOKIECUTTER_PROJECT_NAME_7D_7D_INCLUDE_STM32F4XX_HAL_CONF_H_ */

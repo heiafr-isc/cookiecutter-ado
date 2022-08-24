@@ -15,9 +15,6 @@
  ******************************************************************************
  */
 
-#ifndef _7B_7BCOOKIECUTTER_PROJECT_NAME_7D_7D_INCLUDE_APP_CONF_H_
-#define _7B_7BCOOKIECUTTER_PROJECT_NAME_7D_7D_INCLUDE_APP_CONF_H_
-
 #ifndef INCLUDE_APP_CONF_H_
 #define INCLUDE_APP_CONF_H_
 
@@ -25,6 +22,3 @@
 #define CHECK_ASSERT
 
 #endif /* INCLUDE_APP_CONF_H_ */
-
-
-#endif /* _7B_7BCOOKIECUTTER_PROJECT_NAME_7D_7D_INCLUDE_APP_CONF_H_ */

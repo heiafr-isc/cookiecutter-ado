@@ -20,13 +20,8 @@
 
 /* Define to prevent recursive inclusion -------------------------------------*/
 
-#ifndef _7B_7BCOOKIECUTTER_PROJECT_NAME_7D_7D_INCLUDE_STM32_ASSERT_H_
-#define _7B_7BCOOKIECUTTER_PROJECT_NAME_7D_7D_INCLUDE_STM32_ASSERT_H_
-
-#ifndef STM32_ASSERT_H_
-#define STM32_ASSERT_H_
-#ifndef __STM32_ASSERT_H
-#define __STM32_ASSERT_H
+#ifndef INCLUDE_STM32_ASSERT_H_
+#define INCLUDE_STM32_ASSERT_H_
 
 #ifdef __cplusplus
 extern "C" {
@@ -57,9 +52,4 @@ void assert_failed(uint8_t* file, uint32_t line);
 }
 #endif
 
-#endif /* __STM32_ASSERT_H */
-
-#endif /* STM32_ASSERT_H_ */
-
-
-#endif /* _7B_7BCOOKIECUTTER_PROJECT_NAME_7D_7D_INCLUDE_STM32_ASSERT_H_ */
+#endif /* INCLUDE_STM32_ASSERT_H_ */
